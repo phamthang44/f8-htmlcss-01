@@ -1,0 +1,10 @@
+{
+  "editor.linkedEditing": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.syntaxProfiles": {
+    "html": {
+      "inline_break": 1
+    }
+  }
+}
