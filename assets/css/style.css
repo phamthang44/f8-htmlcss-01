@@ -86,11 +86,9 @@ a {
 }
 .hero .subtitle {
   color: #687690;
-  font-family: Poppins;
   font-size: 1.8rem;
-  font-style: normal;
   font-weight: 500;
-  line-height: normal;
+  line-height: 1.5;
   letter-spacing: 0.018rem;
 }
 .hero .title {
