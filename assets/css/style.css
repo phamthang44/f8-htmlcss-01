@@ -549,12 +549,21 @@ a {
 .footer .social {
   display: flex;
   margin-top: 40px;
-  gap: 5px;
 }
-
 .footer .social-link {
-  justify-content: center;
+  display: flex;
   align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  width: 28px;
+  height: 28px;
+  background-color: #f9f9f9;
+}
+.footer .social-link + .social-link {
+  margin-left: 16px;
+}
+.footer .social-link:hover {
+  background: #ebebeb;
 }
 .footer .row-bottom {
   display: flex;
