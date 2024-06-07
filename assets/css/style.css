@@ -143,6 +143,10 @@ a {
   justify-content: space-between;
   margin-top: 9.6rem;
 }
+.clients .image a {
+  cursor: pointer;
+}
+
 /* =========== guides ============== */
 .guides {
   margin-top: 4rem;
